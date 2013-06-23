@@ -226,7 +226,7 @@ class daily_fetch:
         #Currently only consider business days, not holidays
         return datetime.date.today().isoweekday() in range(1,6)
         
-    def compressToday(self):
+    #def compressToday(self):
                     
     def today_cron_job(self):
         import time
