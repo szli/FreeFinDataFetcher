@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 27 14:41:08 2013
 
-@author: kiteflied
+@author: Shizheng Li
 """
 
 #Finance Data Fetcher
@@ -259,6 +259,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-    #df.fetch_goog()
             
         
