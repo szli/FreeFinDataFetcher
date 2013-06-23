@@ -15,6 +15,8 @@ So far there is no special dependency, only standard Python is used. Tested unde
 
 But we should expect dependencies on numpy/pandas/scipy/matplotlib etc. in the future. 
 
+To use it, simply run 
+python FinDataFetcher.py
 
 
 To Do:
